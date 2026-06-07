@@ -1,3 +1,10 @@
+ .app-shell {
+  padding: 24px;
+  width: min(100% - 48px, 640px);
+ /* border: 2px solid var(--border);*/
+  border-radius: 12px;
+}
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;
